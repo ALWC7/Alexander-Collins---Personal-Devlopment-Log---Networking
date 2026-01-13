@@ -1,2 +1,17 @@
 # Alexander-Collins---Personal-Devlopment-Log---Networking
-Personal Devlopment Log for Networking Related Content
+
+
+This repository documents my hands-on networking labs,
+learning progress, and troubleshooting experience.
+
+
+
+## Content Covered
+
+
+
+## Tools Used
+
+
+
+##Purpose 
